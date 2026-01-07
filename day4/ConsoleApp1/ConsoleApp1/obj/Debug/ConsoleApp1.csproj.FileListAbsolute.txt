@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Dell\Desktop\yara\c#\day4\ConsoleApp1\ConsoleApp1\bin\Debug\Employee.txt
